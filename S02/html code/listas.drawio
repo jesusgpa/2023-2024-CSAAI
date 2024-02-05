@@ -11,10 +11,10 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="2" value="BODY" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFFFFF;fontColor=#000033;strokeColor=#000033;" vertex="1" parent="1">
-                    <mxGeometry x="200" y="60" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="243" y="61" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="4" value="H2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFFFFF;strokeColor=#000033;fontColor=#000033;" vertex="1" parent="1">
-                    <mxGeometry x="100" y="160" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="173" y="160" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" style="edgeStyle=none;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#000033;" edge="1" parent="1" source="5" target="6">
                     <mxGeometry relative="1" as="geometry"/>
