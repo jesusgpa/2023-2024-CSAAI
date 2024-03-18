@@ -3,6 +3,10 @@
 const button = document.getElementById("button");
 const button_test = document.getElementById("button-test");
 
+//-- Botón imagen
+const ibutton = document.getElementById("btimage");
+const ibutton_test = document.getElementById("btimage-test")
+
 //-- Checkbox
 const c1 = document.getElementById("checkbox1");
 const c2 = document.getElementById("checkbox2");
@@ -23,6 +27,16 @@ button.onclick = () => {
         button_test.style.color = "green";
     } else {
         button_test.style.color = "";
+    }
+}
+
+//-- Botón imagen
+ibutton.onclick = () => {
+    //-- Cambiar de color el texto
+    if (ibutton_test.style.color == "") {
+        ibutton_test.style.color = "red";
+    } else {
+        ibutton_test.style.color = "";
     }
 }
 
